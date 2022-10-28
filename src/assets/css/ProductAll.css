@@ -1,0 +1,8 @@
+.page__hover {
+    color: green;
+}
+
+.page__hover:hover {
+    color: white;
+    background-color: OrangeRed;
+}
